@@ -1,23 +1,9 @@
-import textwrap
-
 
 def barrinha(texto):
     print("-" * 60)
     print(texto.center(60))
     print("-" * 60)
-
-'''def menu():
-    menu = """\n
-    ================ MENU ================
-    [d]\tDepositar
-    [s]\tSacar
-    [e]\tExtrato
-    [nc]\tNova conta
-    [lc]\tListar contas
-    [nu]\tNovo usuário
-    [q]\tSair
-    => """
-    return input(textwrap.dedent(menu))'''
+    
 
 def menu():
     barrinha('Menu')
