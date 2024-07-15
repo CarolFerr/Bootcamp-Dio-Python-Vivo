@@ -1,7 +1,7 @@
 # PLN: Um Guia Prático
 
 ## 📒 Descrição
-Este e-book de 10 páginas realiza um passeio pelos conceitos e aplicações do Processamento de Linguagem Natural, além trazer seus fundamentos e o futuro que dessa área, no universo das IAs Generativas.
+Este e-book de 10 páginas realiza um passeio pelos conceitos e aplicações do Processamento de Linguagem Natural, além trazer seus fundamentos e o futuro que essa área agrega no universo das IAs Generativas.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[Gemini](https://gemini.google.com/app)** para roteirização;
@@ -13,7 +13,7 @@ Utilizei o "Gemini" para revisar minha pesquisa sobre Processamento de Linguagem
 
 ## 🚀 Resultados
 Esse e-book apresenta um contéudo introdutório de Processamento de Linguagem Natural envolvente e rico que demostra apenas uma pequena introdução do que acontece nos bastidores das IAs Generativas, além de demostrar o poder que essas ferramentas podem alcançar tanto na educação, disseminação de conhecimento e etc. com técnicas tão robustas. 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/CarolFerr/Desafio-Dio-Python-Backend/blob/main/Desafio%20de%20Projeto%20-%20Natural%20ou%20Fake%20Natty/Ebook%20Processamento%20de%20Linguagem%20Natural%20(PLN).pdf)
 
 ## 💭 Reflexão
 Criar esse e-book foi uma experiência criativa fenomenal, pois além de me ajudar a desenvolver minha mente pesquisadora, mostrou o grande potencial que as IAs Generativas possuem, e que para chegar a tal fim é necessário uma infinidade de técnicas que resultam no resultado fantástico dessas ferramentas que podem ser utilizadas em contextos tão diversos.
