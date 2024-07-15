@@ -1,0 +1,2 @@
+Adicionando um dado no arquivo lorem com a funcao write
+Adicinando um novo dado ao arquivo lorem com writelines

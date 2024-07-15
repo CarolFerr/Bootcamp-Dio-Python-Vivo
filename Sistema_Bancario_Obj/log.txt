@@ -1,0 +1,6 @@
+[2024-06-24 16:42:05] Funcao 'criar_cliente' executada com argumentos ([<PessoaFisica: ('Ana Maria Joaquina', '12345678909')>],) e {}. Retornou None
+[2024-06-24 16:42:31] Funcao 'depositar' executada com argumentos ([<PessoaFisica: ('Ana Maria Joaquina', '12345678909')>],) e {}. Retornou None
+[2024-06-24 16:42:43] Funcao 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('Ana Maria Joaquina', '12345678909')>], [<ContaCorrente: ('0001', '1', 'Ana Maria Joaquina')>]) e {}. Retornou None
+[2024-06-24 16:42:56] Funcao 'depositar' executada com argumentos ([<PessoaFisica: ('Ana Maria Joaquina', '12345678909')>],) e {}. Retornou None
+[2024-06-24 16:43:11] Funcao 'sacar' executada com argumentos ([<PessoaFisica: ('Ana Maria Joaquina', '12345678909')>],) e {}. Retornou None
+[2024-06-24 16:43:22] Funcao 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Ana Maria Joaquina', '12345678909')>],) e {}. Retornou None
